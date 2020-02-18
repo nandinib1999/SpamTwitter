@@ -1,4 +1,7 @@
 # SpamTwitter
+![alt text](https://www.startupthailand.org/wp-content/uploads/2018/11/Technology-twitter-Cover.jpg)
+
+
 This project includes implementation of multiple classification machine learning models on spam twitter account data set. I have used Naive Bayes, LogisticRegression, RandomForest, Neural Networks, Decision Tree and Extra Trees Classifier.
 
 Describe Data
